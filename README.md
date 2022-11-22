@@ -2,6 +2,8 @@
 
 Greedy Gamble is a Decentralized Flutter app which involves two players depositing a specified amount to gamble over the flip of a coin, whoever wins gets credited the total sum of both the accounts and the loser loses all the amount. The amount of both the players is stored on a local blockchain network and the players can keep testing their luck by depositing the desired amount on the basis of their mutual agreement. 
 
+Authors - [@dubey2709](https://github.com//dubey2709) and [@ar-ag](https://github.com//ar-ag)
+
 <h3>Tech-Stack</h3>
 <ul>
   <li>Flutter</li>
